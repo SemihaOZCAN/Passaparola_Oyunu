@@ -1,0 +1,5 @@
+Passaparola oyunu
+**********************
+Passaparola, oyuncuların çeşitli sorulara doğru cevaplar vererek ilerlediği bir bilgi yarışması oyunudur. Her soruda, bir ipucu sunulur ve oyuncular cevaplarını yazarak yanıtlar. Doğru cevaplar yeşil renkte gösterilirken, yanlış cevaplar kırmızı renkte belirtilir. Oyun boyunca doğru ve yanlış cevaplar sayılır ve skor takip edilir. Sonuç ekranında oyuncunun toplam doğru ve yanlış cevapları gösterilir.
+
+Oyun, eğlenceli bir şekilde bilgi birikimini test ederken aynı zamanda renkli butonlar ve görsel geri bildirimlerle etkileşimli bir deneyim sunar.
